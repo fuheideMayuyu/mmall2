@@ -1,0 +1,27 @@
+{
+  "name": "mmall2",
+  "version": "1.0.0",
+  "description": "- src 源代码文件\r --- page view 页面\r --- service 数据层内容\r --- util 工具层内容\r --- image 图片",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuheideMayuyu/mmall2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuheideMayuyu/mmall2/issues"
+  },
+  "homepage": "https://github.com/fuheideMayuyu/mmall2#readme",
+  "devDependencies": {
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.4"
+  },
+  "dependencies": {
+    "loadsh": "^1.0.1"
+  }
+}
